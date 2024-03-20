@@ -1,0 +1,27 @@
+#main_div{
+    width: 500px;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    text-align: center;
+    background-color: cadetblue;
+    padding: 10px;
+   
+
+}
+input{
+    width: 350px;
+    height: 40px;
+    border: none;
+}
+#enter_text{
+    font-size: 30px;
+    font-weight: 700;
+}
+#text{
+    overflow: auto;
+    box-sizing: border-box;
+    padding: 10px;
+}
